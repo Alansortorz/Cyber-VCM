@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Other/Project_Soft/Cyber-VCM/Cyber-VCM-CLion-CPP/Cyber-VCM-CLion/Ctrl/Signal/button_base.cpp
+button_base.h
+E:/Other/Project_Soft/Cyber-VCM/Cyber-VCM-CLion-CPP/Cyber-VCM-CLion/Ctrl/Signal/button_base.h
+
+E:/Other/Project_Soft/Cyber-VCM/Cyber-VCM-CLion-CPP/Cyber-VCM-CLion/Ctrl/Signal/button_base.h
+cstdint
+-
+
+E:/Other/Project_Soft/Cyber-VCM/Cyber-VCM-CLion-CPP/Cyber-VCM-CLion/UserApp/main.cpp
+
+E:/Other/Project_Soft/Cyber-VCM/Cyber-VCM-CLion-CPP/Cyber-VCM-CLion/UserApp/protocols/interface_uart.cpp
+
