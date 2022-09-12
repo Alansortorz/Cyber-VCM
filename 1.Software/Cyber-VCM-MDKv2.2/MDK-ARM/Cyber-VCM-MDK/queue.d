@@ -1,0 +1,15 @@
+cyber-vcm-mdk\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+cyber-vcm-mdk\queue.o: D:\Software\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+cyber-vcm-mdk\queue.o: D:\Software\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+cyber-vcm-mdk\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+cyber-vcm-mdk\queue.o: D:\Software\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+cyber-vcm-mdk\queue.o: D:\Software\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+cyber-vcm-mdk\queue.o: ../Core/Inc/FreeRTOSConfig.h
+cyber-vcm-mdk\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+cyber-vcm-mdk\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+cyber-vcm-mdk\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+cyber-vcm-mdk\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+cyber-vcm-mdk\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+cyber-vcm-mdk\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+cyber-vcm-mdk\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+cyber-vcm-mdk\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
